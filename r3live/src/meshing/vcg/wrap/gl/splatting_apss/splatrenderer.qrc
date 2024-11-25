@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/SplatRenderer">
+    <file>shaders/Raycasting.glsl</file>
+    <file>shaders/Finalization.glsl</file>
+</qresource>
+</RCC>
+Fake commit 83 on 2024-11-25T00:00:00
